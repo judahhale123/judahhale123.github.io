@@ -14,11 +14,12 @@ author: Judah Hale
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Resources 1: "judahhale123.github.io"
-    - Resources 2: "judahhale123.github.io"
-  Author's home: "judahhale123.github.io"
+#  About Me: "aboutme"
+   Tag: "tags"
+#  Resources:
+#    - Resources 1: "judahhale123.github.io"
+#    - Resources 2: "judahhale123.github.io"
+#  Author's home: "judahhale123.github.io"
 
 # --- Logo --- #
 
@@ -214,13 +215,13 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
+#  - CHANGELOG.md
   - CNAME
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
+#  - screenshot.png
   - docs/
 
 plugins:
